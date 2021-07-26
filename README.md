@@ -8,7 +8,7 @@
 	font-family: "Flama";
 	font-weight: normal;
 	font-style: normal;
-	src: url('https://cdn.jsdelivr.net/gh/deajax/FontFace-CDN/src/fonts/Flama/Flama-Basic.otf') format('opentype');
+	src: url('https://cdn.jsdelivr.net/gh/TAOYONG12138/font/文悦古典明朝.otf') format('opentype');
 }
 ```
 >otf格式：format('opentype')   
