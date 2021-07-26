@@ -13,4 +13,14 @@
 ```
 >otf格式：format('opentype')   
 ttf格式：format('truetype')
+
+
+## 2.图片文件访问:
+```
+//420*280
+https://cdn.jsdelivr.net/gh/TAOYONG12138/img/small/(1).jpg
+
+//2400*1600
+https://cdn.jsdelivr.net/gh/TAOYONG12138/img/large/(1).jpg
+```
  
